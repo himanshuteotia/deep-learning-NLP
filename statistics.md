@@ -14,4 +14,4 @@ Machine Learning approach [ **Data** ----> **Problem**]
 >*Prescriptive*
 
 
-In statistics there is nothing like threshold value (single value ) always there be a range like (120 - 140)
+In statistics there is nothing like threshold value (single value) always there be a range like (120 - 140)
