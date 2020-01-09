@@ -12,3 +12,6 @@ Machine Learning approach [ **Data** ----> **Problem**]
 >*Predictive*
 
 >*Prescriptive*
+
+
+In statistics there is nothing like threshold value (single value ) always there be a range like (120 - 140)
