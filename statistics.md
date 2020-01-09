@@ -7,8 +7,8 @@ Machine Learning approach [ **Data** ----> **Problem**]
 
 **Statistics**
 
-*Discriptive
+*Discriptive*
 
-*Predictive
+*Predictive*
 
-*Prescriptive
+*Prescriptive*
